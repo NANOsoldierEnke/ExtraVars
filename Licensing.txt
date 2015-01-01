@@ -1,0 +1,3 @@
+This set of changes to Red Eclipse's variables has been licensed under CC0 1.0, also known as Public Domain.
+
+To view a copy of the license, visit this web page: https://creativecommons.org/publicdomain/zero/1.0/
