@@ -15,8 +15,10 @@ Feel free to use autoexec.cfg if you know how.
 Thanks
 ======
 To qreeves for helping me on some licensing questions.
+To Calinou for suggesting the CC 0 1.0 license.
 
 =========
 Changelog
 =========
 1.0: First Release.
+1.1: Revised plasma attacks. Delay increased, damage decreased. CC 0 1.0 license (public domain) added.
